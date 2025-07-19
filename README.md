@@ -18,14 +18,14 @@ A responsive and interactive weather application built using HTML, CSS, and Java
 
 📆 API Used
 
-👉 WeatherAPI – for current weather data
-👉 Google Maps JavaScript API – for location interaction
+1. WeatherAPI – for current weather data
+2. Google Maps JavaScript API – for location interaction
 
 📦 Dependencies
 
-👉 Feather Icons (via CDN)
-👉 Google Fonts (Roboto)
-👉 Google Maps JavaScript API
+1. Feather Icons (via CDN)
+2. Google Fonts (Roboto)
+3. Google Maps JavaScript API
 
 📜 License
 MIT License. Feel free to fork and modify!
