@@ -17,10 +17,12 @@ A responsive and interactive weather application built using HTML, CSS, and Java
 4. Open the index.html file in any modern web browser: double-click index.html
 
 📆 API Used
+
 👉 WeatherAPI – for current weather data
 👉 Google Maps JavaScript API – for location interaction
 
 📦 Dependencies
+
 👉 Feather Icons (via CDN)
 👉 Google Fonts (Roboto)
 👉 Google Maps JavaScript API
